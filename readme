@@ -1,0 +1,22 @@
+Proyecto: Juego de Piedra, Papel o Tijera
+
+Descripción
+
+Este proyecto implementa el clásico juego de Piedra, Papel o Tijera en Python, permitiendo que dos jugadores compitan en múltiples rondas. Se han aplicado principios de programación estructurada y funcional para modularizar el código y mejorar su legibilidad.
+
+Funcionalidades principales
+
+Permite a dos jugadores elegir entre Piedra, Papel o Tijera.
+Valida la entrada del usuario y selecciona una opción aleatoria en caso de error.
+Determina automáticamente al ganador de cada ronda.
+Permite jugar múltiples rondas hasta que el usuario decida salir.
+
+Requisitos
+
+Para ejecutar este proyecto, necesitas:
+
+Python 3.x instalado en tu sistema.
+Un terminal o consola para ejecutar el código.
+
+Autor
+Juan Pablo Astúa
